@@ -12,7 +12,7 @@ NOT DISCLOSED, and routes it to open items. It does not value, recommend, or
 opine. It extracts.
 
 Built and explained in this edition of Alpha with AI:
-👉 []
+👉 [https://ai.shikshannivesh.com/p/i-taught-claude-to-pull-a-companys]
 
 ## What's in this repo
 
