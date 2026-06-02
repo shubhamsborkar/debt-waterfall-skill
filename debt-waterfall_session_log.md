@@ -1,6 +1,6 @@
 # Building the `debt-waterfall` skill — session log
 
-A working session that designed, built, and tested a reusable skill for extracting a company's debt structure from a single SEC filing. Shared for the team as a record of how the skill was scoped and what it does.
+A working session that designed, built, and tested a reusable skill for extracting a company's debt structure from a single SEC filing. Shared for the subscribers as a record of how the skill was scoped and what it does.
 
 **Date:** June 2, 2026
 **Participants:** Shubham · Claude (Cowork)
@@ -85,7 +85,7 @@ Easy to miss because it's narrative text on page 10, not in the debt schedule ta
 
 ---
 
-## Takeaways for the team
+## Takeaways for the Subscribers
 
 - The skill is deliberately **narrow**: one filing, extraction only. That's a feature — it's the part you can fully trust without re-reading the document.
 - Anything requiring the underlying agreements (lien priority within a tier, call schedules, covenant definitions) is **routed to open items**, never guessed.
